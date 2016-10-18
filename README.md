@@ -2,7 +2,7 @@
 audiobookplayer
 
 OLd VS2010 project to hijack the windows media player and add a better playlist to it for audioboks.
-it remembers where you left off and even if computer restarts. 
+it remembers where you left off, even if computer restarts. 
 
 for installation in windows it used visual studio installer, and now VS 2015 complains about it.
 either find a way to install visualstudio installer or find another 3d party installer creator.
